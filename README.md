@@ -9,7 +9,7 @@ Matrix
 
 ## Sobre a atividade
 
-Este repositório contém a entrega da atividade sobre o filme Matrix.*
+Este repositório contém a entrega da atividade sobre o filme Matrix.
 
 ## Arquivos incluídos
 
